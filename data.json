@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter",
+    "city": "London",
+    "type": "online auction site",
+    "logoLocation": "./image/error.svg"
+  },
+  {
+    "id": 2,
+    "name": "Don Quixote",
+    "city": "Madrid",
+    "type": "online learning site",
+    "logoLocation": "../img/corporate/treehouse.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Joan of Arc",
+    "city": "Paris",
+    "type": "household gardening",
+    "logoLocation": "../img/personal/lawnmower.png"
+  },
+  {
+    "id": 4,
+    "name": "Rosa Park",
+    "city": "Alabama",
+    "type": "online auction site",
+    "logoLocation": "../img/corporate/ebay.svg"
+  },  {
+    "id": 5,
+    "name": "Harry Potter",
+    "city": "London",
+    "type": "online auction site",
+    "logoLocation": ""
+  },
+  {
+    "id": 6,
+    "name": "Don Quixote",
+    "city": "Madrid",
+    "type": "online learning site",
+    "logoLocation": "../img/corporate/treehouse.jpg"
+  }
+]
